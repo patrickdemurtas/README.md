@@ -1,6 +1,6 @@
 ## Olá Mundo, me chamo Patrick G. de Murtas e sou um desenvolvedor web Full-Stack
 - 🎓 Atualmente terminando o curso de engenharia mecânica na Universidade do estado do Rio de Janeiro (UERJ), onde também sou bolsista de iniciação científica.
-- 💻 Decidi transicionar de carreira para a área de desenvolvimento, onde sei que posso fazer contribuições mais efetivas a minha vida pessoal e à nossa comunidade, com mais de 20 projetos front & back-end e full-stack, que podem ser contemplados em meus repositórios (todos estão públicos)
+- 💻 Decidi transicionar de carreira para a área de desenvolvimento, onde sei que posso fazer contribuições mais efetivas a minha vida pessoal e à nossa comunidade, com mais de 20 projetos front & back-end e full-stack que podem ser contemplados em meus repositórios (todos estão públicos)
 - 📌 No momento me aprofundando em estudar testes (unitários e de integração) e TypeScript.
 - 📚 Interessado em começar a aprender Python e Java.
 - 👽 Fatos curiosos sobre mim: obcecado por enigmas, desafios lógicos e literatura; guitarrista nas horas vagas. 
